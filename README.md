@@ -12,7 +12,7 @@
 - 🌱 Next i'll engage with some back-end framework tecnology and learn spanish.  
   
 
-- ❓ You can ask-me about Css and Html.  
+- ❓ You can ask-me about Python and C#.  
   
 
 - ⚡ My name is really "Johm", not "John". Or both, it's a long story... Call me to know more about. Haha.  
