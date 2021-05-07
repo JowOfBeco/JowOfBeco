@@ -6,10 +6,10 @@
 ### <div align="center">I'm Johmself. I'm studying development since early 2021. </div>  
   
 
-- 🔭 Right now i'm studying Python, JavaScript, Css, Html and going on.  
+- 🔭 Right now i'm studying Python, C#, MySQL and going on.  
   
 
-- 🌱 Next i'll engage with some back-end framework tecnology and learn spanish.  
+- 🌱 Next i'll engage with .NET, Node.js and learn more of spanish.  
   
 
 - ❓ You can ask-me about Python and C#.  
